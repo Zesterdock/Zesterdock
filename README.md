@@ -1,5 +1,5 @@
-# 💫 About Me:
-A pre-final year student working on Machine Learning Systems
+# 🤖 About Me:
+Hi I'm Pranjal, a pre-final year student working on Machine Learning Systems.
 
 
 ## 🌐 Socials:
